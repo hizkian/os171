@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 hizkia.nugroho StafCS 4096 Feb 15 00:43 .
+drwx--x--x  3 hizkia.nugroho StafCS 4096 Feb 15 00:38 ..
+drwxr-xr-x  8 hizkia.nugroho StafCS 4096 Feb 15 00:40 .git
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:19 key
+-rw-r--r--  1 hizkia.nugroho StafCS    0 Feb 15 00:44 lab01.txt
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:19 log
+-rw-r--r--  1 hizkia.nugroho StafCS    7 Feb 15 00:11 README.md
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:24 sandbox
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:38 week00
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:16 week01
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:16 week02
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:17 week03
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:17 week04
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:17 week05
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:17 week06
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:17 week07
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:18 week08
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:18 week09
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:18 week10
+drwxr-xr-x  2 hizkia.nugroho StafCS 4096 Feb 15 00:19 xtra
+/home/fasilkom/mahasiswa/h/hizkia.nugroho/os171/week01
