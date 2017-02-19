@@ -1,0 +1,13 @@
+w00-170209-16-LR-About: Introduction to Operating System, From:Lecturer
+w00-170209-16-LR-About: Introduction to Operating System, From:Lecturer
+w00-170209-17-LR-About: Introduction to Operating System, From:Lecturer
+w01-170214-16-LR-About: Intelectual Property Right, From:Lecturer
+w01-170214-16-LR-About: Intelectual Property Right, From:Lecturer
+w01-170214-17-LR-About: The GNU, From:Lecturer
+w01-170215-21-PS-About: Lab, From:scele
+w01-170215-21-PS-About: Lab, From:scele
+w01-170215-22-PS-About: vim, From:scele
+w01-170215-22-PS-About: GNU, From:scele
+w01-170216-16-LR-About: Free Software and open source, From:Lecturer
+w01-170216-16-LR-About: Scripting, From Lecturer
+w01-170216-17-LR-About: Scripting, From:Lecturer
